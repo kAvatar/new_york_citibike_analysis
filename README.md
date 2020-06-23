@@ -4,7 +4,7 @@ The New York City Bike Share enables quick, easy, and affordable bike trips arou
 
 
 ## Data Source:
-<a href="https://www.kaggle.com/akkithetechie/new-york-city-bike-share-dataset">New York CiyBike Share Dataset</a>
+<a href="https://www.kaggle.com/akkithetechie/new-york-city-bike-share-dataset">New York CityBike Share Dataset</a>
 
 ## Objectives -
 - EDA
