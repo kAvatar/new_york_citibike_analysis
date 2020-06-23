@@ -9,6 +9,7 @@ The New York City Bike Share enables quick, easy, and affordable bike trips arou
 ## Objectives -
 - EDA
 - Feature Engineering
+- Prediction of Availability of the Bike (for Future work)
 
 ## Technologies:
 
